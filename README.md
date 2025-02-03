@@ -116,3 +116,6 @@ The Neural Style Transfer application provides an easy way for anyone to turn th
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/b37085c2-4d9a-4b0d-8d51-91a8a1e79c58)
+![Image](https://github.com/user-attachments/assets/b22a0316-16f3-47c7-80b8-c6776e82482f)
+
